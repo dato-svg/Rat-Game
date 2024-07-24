@@ -11,9 +11,8 @@ public class ArrowController : MonoBehaviour
         
         var leftImageColor = leftImage.color;
         leftImageColor.a = 0.2f;
-        leftImage.color = leftImageColor;  
-       
-        
+        leftImage.color = leftImageColor;
+
         var rightImageColor = rightImage.color;
         rightImageColor.a = 1f;
         rightImage.color = rightImageColor; 

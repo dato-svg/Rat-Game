@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5961485756722610069}
   - component: {fileID: 7529324259489514994}
   - component: {fileID: 1456187907488695019}
+  - component: {fileID: 7668847081128500714}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -111,6 +112,18 @@ MonoBehaviour:
   onFinish:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 7668847081128500714}
+        m_TargetAssemblyTypeName: Ads.InterShow, Assembly-CSharp
+        m_MethodName: ShowAd
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Level 2
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 7529324259489514994}
         m_TargetAssemblyTypeName: Components.SceneControllerComponent, Assembly-CSharp
         m_MethodName: SwitchScene
@@ -210,3 +223,15 @@ MonoBehaviour:
   onExit:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &7668847081128500714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4280568254094035122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d296385400ec1f41bd4d3150f89990f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
