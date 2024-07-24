@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: ceecd58e2ef92354c967666bbc9e2b49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 342
+        width: 150
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f181324117f89794591c728825933b0c
+      internalID: -1306715535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 360
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e56db04e832742b169af9b5fe3eaf
+      internalID: 1584559129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 360
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b27b828a12fe4a953bfd7d2cdc432
+      internalID: 1038932979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 328
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f196d4eef9a5e7743a0fe4a4ba18dbd5
+      internalID: 194762136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 284
+        width: 136
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7356be2311faae44884f32a381444bfd
+      internalID: 661354570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 318
+        width: 160
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90872c08bbe3a4bab5e0baae1eb7c5
+      internalID: 1912620943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 317
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467db614a37b4e744800a43d67648c94
+      internalID: 522354652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 221
+        width: 133
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502d15caf21d1749a851c5724ed986a
+      internalID: 2142065576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 275
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5c32ba09112343a5e2f3967956a1e
+      internalID: 598335972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 274
+        width: 160
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d8b727ad0a2744db23ecb7ddde45f7
+      internalID: 60295704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 252
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c01bc2f1f1f604b9a663559285d31c
+      internalID: -1204976988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 163
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca6321fb4c55d47b14196fa722c5eb
+      internalID: 79682276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 228
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9dd5024c8611a45b0ffdace42c937e
+      internalID: -863559689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 228
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ced4fca5eeb546b4cf1911ef0568f
+      internalID: 1439959960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 228
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2b551ffd7f674fa987b6e4d150904
+      internalID: -1609700395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 228
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6c7717cd58504390cc1321133786e
+      internalID: -533420583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 153
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ed8f9c40889247a4a859878e47a13
+      internalID: -106232710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 204
+        width: 163
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a028ffdd06d449b2d28afe80bba8e
+      internalID: -236604018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 182
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e910771d94a53d47a6357e98b5d1571
+      internalID: -955414126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 182
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b58d6e924a524091cfc90ae127931
+      internalID: 1122620338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 182
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39f7ae611965e49bbf26d9398dd024
+      internalID: 1134103568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 182
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f1b81d6ae8f7458b266ce93726cd7
+      internalID: 119615504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 167
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbf10cc053a3743b37d44834b03d60
+      internalID: 1904542207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 169
+        width: 163
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ffe7fc0bfcbb4a8b4b83d2097cfa4
+      internalID: 1761914700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 136
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4bb0ee0833c6f46b660952c458413e
+      internalID: 1935977792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 136
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aadf6cd8774eb74da231d0955f7331f
+      internalID: -539447714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 136
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04edfd8b23143af45aa2ebcdbf35d18c
+      internalID: 1971881432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 136
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4598b5eda96a1c4792afd7e9dd0fe64
+      internalID: 1344932432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e4004e26741242a36383eb6b7d8aa
+      internalID: 1003976790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 133
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35a38faddf7f0541a701b760f2acccd
+      internalID: 674947964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 133
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fa889aa8febd54295b05c94d653717
+      internalID: -1329443451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 133
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1f3c338a5aeb449a339ea3e01e5b1
+      internalID: -856357452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 133
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99227d4b9555a894f940e384ea837cb0
+      internalID: 644648313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 133
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae280b5580b14e48ab13f4f59601b77
+      internalID: 830822296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 143
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3aa3763f8eb4246966a0f6e9ae287e
+      internalID: -1479052766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 133
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d30ea6147970545a6be302617fab51
+      internalID: 1837171367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 84
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac2ba9514ed184b9e027577430aedb
+      internalID: 2131229355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551561dd367f0847ba19ba57ffa4c87
+      internalID: 1904599736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c999429de4144943938d2145db22fd2
+      internalID: -563214474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 98
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9732e9d84bcf42a62ffb730bb9452
+      internalID: 1553154972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 98
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11079a21db9ea4597e3809c31b2ca4
+      internalID: -2038138437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 98
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bc20af08a8f8344882f79613daa164
+      internalID: 778840349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 98
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afccd4104308c448a4aebb2bafc98f
+      internalID: -1534788098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 98
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e98cc88096a2d41b2d7072c34b114c
+      internalID: 1374582267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 108
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c9d193d4ab81e4eb5a518c3a7de234
+      internalID: 2062999317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 93
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3777169462af94aad5816d0600b8ab
+      internalID: 1934868096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 87
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437740826d18b2c4c822e63da56929e4
+      internalID: 1398332116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 87
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d2b462345f234d888eb14faa917a9
+      internalID: -2001452512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 93
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280b851be8efca45be12f42aa647f99
+      internalID: -1553293288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 61
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8c33fcc30b614b8cc33785e7e6379
+      internalID: -1128079028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8e13c9ae37134dac0337f620a491c
+      internalID: 1694252476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 62
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4ff078531cde479614d6a3188dd08
+      internalID: 518113859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 62
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775d8df34184f44ab3af767427acb83
+      internalID: 789236768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 62
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd3bbe9da918b43ad65b10d9e0ddcd
+      internalID: 290826941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 62
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9edf13f0c7bc48bd0a81dad99fa4e
+      internalID: 1601171004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_55
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 62
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534383aa202e6344a0c52ec2a2fc1e0
+      internalID: -319581656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 62
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32f616ea908f54ead1a8d3528df491
+      internalID: 2054984068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 62
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290e5dc3430240468a24a93a0b5a6ec
+      internalID: 1236824766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_58
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3822d9e7c56fc741bb5f2b5475415ad
+      internalID: 635081176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_59
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddcc1d81edd42046bf80a7697de79b6
+      internalID: 1655703824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 8
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b59832c37d3c949a96fd2a691555d2
+      internalID: 836635745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_61
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 8
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba9009e8eee2745a7ed4d03f72636f
+      internalID: 541707121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 8
+        width: 114
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61fb166413a9c547865fa1621f93e17
+      internalID: 1933065233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc3b49649a33bf4ea05fecf3cc872d2
+      internalID: -469772590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79db7d299babdc54f9833d0fb7193b45
+      internalID: 175603594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_65
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81b8ab3c3afb04493da9c23493dd43
+      internalID: 895043322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-game-menu-buttons-8-600nw-1973320355_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd315ca84a402c4fb7843af8c92b65d
+      internalID: 218838118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-game-menu-buttons-8-600nw-1973320355_0: -1306715535
+      pixel-game-menu-buttons-8-600nw-1973320355_1: 1584559129
+      pixel-game-menu-buttons-8-600nw-1973320355_10: -1204976988
+      pixel-game-menu-buttons-8-600nw-1973320355_11: 79682276
+      pixel-game-menu-buttons-8-600nw-1973320355_12: -863559689
+      pixel-game-menu-buttons-8-600nw-1973320355_13: 1439959960
+      pixel-game-menu-buttons-8-600nw-1973320355_14: -1609700395
+      pixel-game-menu-buttons-8-600nw-1973320355_15: -533420583
+      pixel-game-menu-buttons-8-600nw-1973320355_16: -106232710
+      pixel-game-menu-buttons-8-600nw-1973320355_17: -236604018
+      pixel-game-menu-buttons-8-600nw-1973320355_18: -955414126
+      pixel-game-menu-buttons-8-600nw-1973320355_19: 1122620338
+      pixel-game-menu-buttons-8-600nw-1973320355_2: 1038932979
+      pixel-game-menu-buttons-8-600nw-1973320355_20: 1134103568
+      pixel-game-menu-buttons-8-600nw-1973320355_21: 119615504
+      pixel-game-menu-buttons-8-600nw-1973320355_22: 1904542207
+      pixel-game-menu-buttons-8-600nw-1973320355_23: 1761914700
+      pixel-game-menu-buttons-8-600nw-1973320355_24: 1935977792
+      pixel-game-menu-buttons-8-600nw-1973320355_25: -539447714
+      pixel-game-menu-buttons-8-600nw-1973320355_26: 1971881432
+      pixel-game-menu-buttons-8-600nw-1973320355_27: 1344932432
+      pixel-game-menu-buttons-8-600nw-1973320355_28: 1003976790
+      pixel-game-menu-buttons-8-600nw-1973320355_29: 674947964
+      pixel-game-menu-buttons-8-600nw-1973320355_3: 194762136
+      pixel-game-menu-buttons-8-600nw-1973320355_30: -1329443451
+      pixel-game-menu-buttons-8-600nw-1973320355_31: -856357452
+      pixel-game-menu-buttons-8-600nw-1973320355_32: 644648313
+      pixel-game-menu-buttons-8-600nw-1973320355_33: 830822296
+      pixel-game-menu-buttons-8-600nw-1973320355_34: -1479052766
+      pixel-game-menu-buttons-8-600nw-1973320355_35: 1837171367
+      pixel-game-menu-buttons-8-600nw-1973320355_36: 2131229355
+      pixel-game-menu-buttons-8-600nw-1973320355_37: 1904599736
+      pixel-game-menu-buttons-8-600nw-1973320355_38: -563214474
+      pixel-game-menu-buttons-8-600nw-1973320355_39: 1553154972
+      pixel-game-menu-buttons-8-600nw-1973320355_4: 661354570
+      pixel-game-menu-buttons-8-600nw-1973320355_40: -2038138437
+      pixel-game-menu-buttons-8-600nw-1973320355_41: 778840349
+      pixel-game-menu-buttons-8-600nw-1973320355_42: -1534788098
+      pixel-game-menu-buttons-8-600nw-1973320355_43: 1374582267
+      pixel-game-menu-buttons-8-600nw-1973320355_44: 2062999317
+      pixel-game-menu-buttons-8-600nw-1973320355_45: 1934868096
+      pixel-game-menu-buttons-8-600nw-1973320355_46: 1398332116
+      pixel-game-menu-buttons-8-600nw-1973320355_47: -2001452512
+      pixel-game-menu-buttons-8-600nw-1973320355_48: -1553293288
+      pixel-game-menu-buttons-8-600nw-1973320355_49: -1128079028
+      pixel-game-menu-buttons-8-600nw-1973320355_5: 1912620943
+      pixel-game-menu-buttons-8-600nw-1973320355_50: 1694252476
+      pixel-game-menu-buttons-8-600nw-1973320355_51: 518113859
+      pixel-game-menu-buttons-8-600nw-1973320355_52: 789236768
+      pixel-game-menu-buttons-8-600nw-1973320355_53: 290826941
+      pixel-game-menu-buttons-8-600nw-1973320355_54: 1601171004
+      pixel-game-menu-buttons-8-600nw-1973320355_55: -319581656
+      pixel-game-menu-buttons-8-600nw-1973320355_56: 2054984068
+      pixel-game-menu-buttons-8-600nw-1973320355_57: 1236824766
+      pixel-game-menu-buttons-8-600nw-1973320355_58: 635081176
+      pixel-game-menu-buttons-8-600nw-1973320355_59: 1655703824
+      pixel-game-menu-buttons-8-600nw-1973320355_6: 522354652
+      pixel-game-menu-buttons-8-600nw-1973320355_60: 836635745
+      pixel-game-menu-buttons-8-600nw-1973320355_61: 541707121
+      pixel-game-menu-buttons-8-600nw-1973320355_62: 1933065233
+      pixel-game-menu-buttons-8-600nw-1973320355_63: -469772590
+      pixel-game-menu-buttons-8-600nw-1973320355_64: 175603594
+      pixel-game-menu-buttons-8-600nw-1973320355_65: 895043322
+      pixel-game-menu-buttons-8-600nw-1973320355_66: 218838118
+      pixel-game-menu-buttons-8-600nw-1973320355_7: 2142065576
+      pixel-game-menu-buttons-8-600nw-1973320355_8: 598335972
+      pixel-game-menu-buttons-8-600nw-1973320355_9: 60295704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
